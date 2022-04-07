@@ -3,4 +3,7 @@
 guessing_game/
 hello_cargo/
 hello_world/
+**/target/
+
+calc_lib/Cargo.lock
 
