@@ -1,0 +1,6 @@
+## Ignore some rust projects
+
+guessing_game/
+hello_cargo/
+hello_world/
+
